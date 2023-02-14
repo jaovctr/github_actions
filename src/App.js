@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edição na branch dev
+          Edição na branch dev<br></br>
+          novo workflow
         </p>
-        
       </header>
     </div>
   );
