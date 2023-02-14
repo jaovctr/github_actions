@@ -2,6 +2,7 @@
   "name": "github_actions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jaovctr.github.io/github_actions/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
