@@ -3,7 +3,7 @@ name: Dev_pullrequest - Build & deploy
 on:
   pull_request:
     branches:
-      - master
+      - dev
 
 jobs:
   build:
